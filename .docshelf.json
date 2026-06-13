@@ -1,0 +1,10 @@
+{
+  "name": "\u0416\u0438\u0437\u043d\u044c \u2014 \u043f\u043e\u0434\u043b\u0438\u043d\u043d\u0438\u043a \u00abUne Vie\u00bb (Maupassant)",
+  "remote": "",
+  "branch": "main",
+  "preamble": "This is the navigation index for the document shelf. Each entry below links to a Markdown file on GitHub (raw URL) \u2014 an AI assistant can fetch only the section it needs instead of loading the entire collection. Large documents are split by chapter; follow the section links for those.",
+  "category_order": [
+    "une-vie"
+  ],
+  "split_threshold_bytes": 51200
+}
