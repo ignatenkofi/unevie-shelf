@@ -1,6 +1,6 @@
 # Жизнь — подлинник «Une Vie» (Maupassant)
 
-Repo: <git@github.com:ignatenkofi/UneVieShelf.git>
+Repo: <git@github.com:ignatenkofi/unevie-shelf.git>
 
 This is the navigation index for the document shelf. Each entry below links to a Markdown file on GitHub (raw URL) — an AI assistant can fetch only the section it needs instead of loading the entire collection. Large documents are split by chapter; follow the section links for those.
 
@@ -8,26 +8,9 @@ This is the navigation index for the document shelf. Each entry below links to a
 
 ### Une Vie (1883) — Французский подлинник романа Ги де Мопассана «Une Vie» (1883). Общественное достояние. 14 глав + фронтиспис.
 
-Full document: [`une-vie-1883.md`](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883.md) (~455 KB — prefer pulling individual sections below).
+Full document: [`une-vie-1883.md`](https://raw.githubusercontent.com/ignatenkofi/unevie-shelf/main/docs/une-vie/une-vie-1883.md) (~455 KB — prefer pulling individual sections below).
 
-- [Preamble](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/001-preamble.md)
-- [Frontispice](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/002-frontispice.md)
-- [I](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/003-i.md)
-- [Ii](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/004-ii.md)
-- [Iii](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/005-iii.md)
-- [Iv](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/006-iv.md)
-- [V](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/007-v.md)
-- [Vi](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/008-vi.md)
-- [Vii](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/009-vii.md)
-- [Viii](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/010-viii.md)
-- [Ix](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/011-ix.md)
-- [X](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/012-x.md)
-- [Xi](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/013-xi.md)
-- [Xii](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/014-xii.md)
-- [Xiii](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/015-xiii.md)
-- [Xiv](https://raw.githubusercontent.com/ignatenkofi/UneVieShelf/main/docs/une-vie/une-vie-1883/016-xiv.md)
-
-  *(sections: 16)*
+Sections (16): see the [SUBINDEX](https://raw.githubusercontent.com/ignatenkofi/unevie-shelf/main/docs/une-vie/une-vie-1883/SUBINDEX.md) for the per-chapter list.
 
 
 ---
