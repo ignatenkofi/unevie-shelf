@@ -6,5 +6,5 @@
   "category_order": [
     "une-vie"
   ],
-  "split_threshold_bytes": 51200
+  "split_threshold_bytes": 65536
 }
